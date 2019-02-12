@@ -1,6 +1,10 @@
 {
   "name": "polymer-features-for-lit",
   "version": "1.0.0",
+  "private": false,
+  "contributors": [
+    "The Goalplan Team"
+  ],
   "description": "Add some features from polymer components to the lit element",
   "main": "index.js",
   "scripts": {
@@ -16,9 +20,14 @@
     "WebComponents"
   ],
   "author": "Goalplan",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/goalplan/polymer-features-for-lit/issues"
   },
-  "homepage": "https://github.com/goalplan/polymer-features-for-lit#readme"
+  "homepage": "https://github.com/goalplan/polymer-features-for-lit#readme",
+  "files": [
+    "/src",
+    "/README.md",
+    "/index.js"
+  ]
 }
