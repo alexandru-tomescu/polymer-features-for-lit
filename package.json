@@ -1,0 +1,24 @@
+{
+  "name": "polymer-features-for-lit",
+  "version": "1.0.0",
+  "description": "Add some features from polymer components to the lit element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goalplan/polymer-features-for-lit.git"
+  },
+  "keywords": [
+    "Polymer",
+    "Lit",
+    "WebComponents"
+  ],
+  "author": "Goalplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goalplan/polymer-features-for-lit/issues"
+  },
+  "homepage": "https://github.com/goalplan/polymer-features-for-lit#readme"
+}
