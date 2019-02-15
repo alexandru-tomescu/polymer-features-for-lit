@@ -20,7 +20,7 @@
     "WebComponents"
   ],
   "author": "Goalplan",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/goalplan/polymer-features-for-lit/issues"
   },
